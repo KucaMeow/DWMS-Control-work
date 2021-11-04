@@ -1,0 +1,9 @@
+{"namespace": "control.work",
+  "type": "record",
+  "name": "Data",
+  "fields": [
+    {"name": "num", "type": "int"},
+    {"name": "code",  "type": "int"},
+    {"name": "someString", "type": "string"}
+  ]
+}
